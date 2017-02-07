@@ -34,7 +34,7 @@ Prices %>%
   geom_line(aes(color = company))
 ```
 
-![](Index_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
 
 
 ### Buy/Sell Profit
@@ -120,7 +120,7 @@ IndexData %>%
   geom_line(aes(color = company))
 ```
 
-![](Index_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](index_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
 
 
 ### Dividends
